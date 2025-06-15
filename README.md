@@ -1,0 +1,2 @@
+# PasteImitator
+For Competition.
